@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andy Thai"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
