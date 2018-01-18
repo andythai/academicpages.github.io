@@ -2,7 +2,7 @@
 title: "Instructional Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: http://thiscourse.com/ucsd/cogs160bci/wi18/
 venue: "UCSD, Cognitive Science"
 date: 2014-01-01
 location: "La Jolla, United States"
