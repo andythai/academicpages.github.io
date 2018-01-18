@@ -11,12 +11,13 @@ redirect_from:
 
 
 Education
-======
+------
 * B.S. in Mathematics-Computer Science, UCSD, 2018 (expected)
 * B.S. in Cognitive Science with Specialization in Human-Computer Interaction, UCSD, 2018 (expected)
 
+
 Work Experience
-======
+------
 * 2015 - present: Research Assistant
   * UCSD Chiba Lab
   * Duties included: Vivarium duties, robot handling, video coding, scripting
@@ -25,8 +26,9 @@ Work Experience
   * UCSD Retirement Resource Center
   * Duties included: Database management, event planning, financial management, supervision
   
+  
 Skills
-======
+------
 * Programming
   * Python
   * C, C++
@@ -44,13 +46,13 @@ Skills
 * Research
 
 Teaching
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and Leadership
-======
+------
 * Chancellor's Scholars Alliance Vice-President
 * Chancellor's Scholars Alliance Webmaster & Communications Chair
 * Chancellor's Scholars Program Newsletter Writer
@@ -59,7 +61,7 @@ Service and Leadership
 * Iaido Club Officer
 
 Awards & Scholarships
-======
+------
 * Student Foundation Scholarship
 * Provost's Honors
 * Chancellor's Scholarship
