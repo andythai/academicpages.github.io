@@ -50,12 +50,12 @@ Teaching
   
 Service and leadership
 ======
-* Chancellor's Scholars Alliance Vice-President (2018-present)
-* Chancellor's Scholars Program Newsletter Writer (2017-present)
-* Chancellor's Scholars Alliance Webmaster & Communications Chair (2015-2018)
-* Sixth College ComicCon Section Leader (2015)
-* Scholars Society Overnight Stay Program Food Coordinator (2015)
-* Iaido Club
+* Chancellor's Scholars Alliance Vice-President
+* Chancellor's Scholars Program Newsletter Writer
+* Chancellor's Scholars Alliance Webmaster & Communications Chair
+* Sixth College ComicCon Section Leader
+* Scholars Society Overnight Stay Program Food Coordinator
+* Iaido Club Officer
 
 Awards & Scholarships
 ======
