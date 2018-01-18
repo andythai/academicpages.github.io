@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: http://thiscourse.com/ucsd/cogs160bci/wi18/
 venue: "UCSD, Cognitive Science"
-date: 2014-01-01
+date: 2018-01-01
 location: "La Jolla, United States"
 ---
 
