@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Mathematics-Computer Science, UCSD, 2018 (expected)
 * B.S. in Cognitive Science with Specialization in Human-Computer Interaction, UCSD, 2018 (expected)
 
-Work experience
+Work Experience
 ======
 * 2015 - present: Research Assistant
   * UCSD Chiba Lab
@@ -48,7 +49,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Chancellor's Scholars Alliance Vice-President
 * Chancellor's Scholars Program Newsletter Writer
