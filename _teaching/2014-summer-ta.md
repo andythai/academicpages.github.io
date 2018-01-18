@@ -8,13 +8,7 @@ date: 2014-06-01
 location: "Palo Alto, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This summer program facilitated languages arts and mathematics skill-building in high school-aged students in preparation for Common Core Standards.
 
 Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
