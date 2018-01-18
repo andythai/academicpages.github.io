@@ -1,6 +1,6 @@
 ---
 title: "4K Processing Animation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/brainowar.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/processing.png'>"
 collection: portfolio
 ---
 
