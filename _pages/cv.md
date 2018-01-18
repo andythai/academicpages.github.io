@@ -53,6 +53,19 @@ Teaching
   {% endfor %}</ul>
   
   
+Relevant Courses
+------
+* Intro to Machine Learning I
+* Intro to Machine Learning II
+* Recommender Systems
+* Cognitive Models
+* Applied Mathematics
+* Intro to Data Science
+* Combinatorics
+* Computer Graphics
+* Computer Animation
+
+  
 Service and Leadership
 ------
 * Chancellor's Scholars Alliance Vice-President
