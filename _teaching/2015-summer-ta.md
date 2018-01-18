@@ -8,13 +8,8 @@ date: 2015-06-01
 location: "Palo Alto, United States"
 ---
 
-This summer program facilitated languages arts and mathematics skill-building in primary school-aged students in preparation for Common Core Standards.
+This summer program facilitated languages arts and mathematics skill-building for primary school-aged students in preparation for the Common Core State Standards.
 
-Heading 1
+Program website
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+<http://www.mathenrichment.net/>
