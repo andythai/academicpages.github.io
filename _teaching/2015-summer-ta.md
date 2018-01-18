@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Secondary education"
+type: "Primary education"
 permalink: /teaching/2015-summer-ta
 venue: "Math Enrichment"
 date: 2015-06-01
