@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics-Computer Science, B.S. in Cognitive Science with Specialization in Human-Computer Interaction, UCSD, 2018 (expected)
+* B.S. in Mathematics-Computer Science, UCSD, 2018 (expected)
+* B.S. in Cognitive Science with Specialization in Human-Computer Interaction, UCSD, 2018 (expected)
 
 Work experience
 ======
