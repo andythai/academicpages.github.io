@@ -10,6 +10,10 @@ location: "La Jolla, United States"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
+Course description
+======
+This course discusses signal processing, pattern recognition algorithms, cognitive neuroscience, and human-computer interaction issues in EEG-based brain-computer interfaces. 
+
 Course website
 ======
-http://thiscourse.com/ucsd/cogs160bci/wi18/
+<http://thiscourse.com/ucsd/cogs160bci/wi18/>
