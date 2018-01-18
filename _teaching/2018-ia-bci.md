@@ -1,5 +1,5 @@
 ---
-title: "Instructional Assistant"
+title: "Instructional Assistant (COGS 189)"
 collection: teaching
 type: "Undergraduate course"
 permalink: 2018-ia-bci
