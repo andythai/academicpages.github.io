@@ -3,6 +3,7 @@ title: "RUBI-6"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/rubi_project.png'>"
 collection: portfolio
 ---
+---
 title: "RUBI-2"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/rubi_project.png'>"
 collection: portfolio
