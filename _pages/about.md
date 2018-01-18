@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About
+------
 I am an undergraduate student currently studying Mathematics, Computer Science, and Cognitive Science at UC San Diego. I work as a research assistant in Professor Andrea Chiba's neuroscience laboratory. 
 
 Interests
