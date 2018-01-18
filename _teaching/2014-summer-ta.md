@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (Secondary level)"
 collection: teaching
 type: "Secondary education"
 permalink: /teaching/2014-summer-ta
@@ -8,7 +8,7 @@ date: 2014-06-01
 location: "Palo Alto, United States"
 ---
 
-This summer program facilitated languages arts and mathematics skill-building for high school-aged students in preparation for the Common Core State Standards.
+This summer program facilitated languages arts and mathematics skill-building for middle school and high school-aged students in preparation for the Common Core State Standards.
 
 Program website
 ======
