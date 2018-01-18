@@ -60,5 +60,5 @@ Service and leadership
 Awards & Scholarships
 ======
 * Student Foundation Scholarship
-* Chancellor's Scholarship
 * Provost's Honors
+* Chancellor's Scholarship
