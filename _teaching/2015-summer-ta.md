@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant (Primary level)"
 collection: teaching
 type: "Primary education"
 permalink: /teaching/2015-summer-ta
