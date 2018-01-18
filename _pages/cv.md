@@ -52,8 +52,8 @@ Teaching
 Service and Leadership
 ======
 * Chancellor's Scholars Alliance Vice-President
-* Chancellor's Scholars Program Newsletter Writer
 * Chancellor's Scholars Alliance Webmaster & Communications Chair
+* Chancellor's Scholars Program Newsletter Writer
 * Sixth College ComicCon Section Leader
 * Scholars Society Overnight Stay Program Food Coordinator
 * Iaido Club Officer
