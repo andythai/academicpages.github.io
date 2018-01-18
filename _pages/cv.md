@@ -45,11 +45,13 @@ Skills
 * Neuroscience
 * Research
 
+
 Teaching
 ------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Service and Leadership
 ------
@@ -59,6 +61,7 @@ Service and Leadership
 * Sixth College ComicCon Section Leader
 * Scholars Society Overnight Stay Program Food Coordinator
 * Iaido Club Officer
+
 
 Awards & Scholarships
 ------
