@@ -39,6 +39,7 @@ Skills
 * Data Science
 * Computer Graphics
 * Applied Math
+* Neuroscience
 * Research
 
 Teaching
