@@ -1,6 +1,6 @@
 ---
 title: "RUBI-6"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/rubi_project.png'>"
+excerpt: "Short description of portfolio item number 1<br/>[<img src='/images/rubi_project.png'>](www.rubi.ucsd.edu)"
 collection: portfolio
 ---
 
