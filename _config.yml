@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Andy Thai"
 title_separator          : "-"
 name                     : &name "Andy Thai"
 description              : &description "personal description"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andy Thai"
+  name             : 
   avatar           : "profile.png"
   bio              : "I am a driven young academic professional endlessly seeking opportunities to learn and grow from new experiences."
   location         : "La Jolla"
   employer         : "UCSD"
   googlescholar    :
-  email            : "andythai at ucsd dot edu"
+  email            : "andythai at-sign ucsd dot edu"
   uri              :
   bitbucket        :
   codepen          :
