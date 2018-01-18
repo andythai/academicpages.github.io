@@ -1,6 +1,6 @@
 ---
-title: "RUBI-6"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/rubi_project.png'>"
+title: "Project Titanic"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/project_titanic.png'>"
 collection: portfolio
 ---
 
