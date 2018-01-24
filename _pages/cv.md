@@ -77,7 +77,6 @@ Curriculum Vitae
   
 ### Service and Leadership
 
-* Inducted IEEE-Eta Kappa Nu 2018 Kappa Psi
 * Chancellor's Scholars Alliance Vice-President
 * Chancellor's Scholars Alliance Webmaster & Communications Chair
 * Chancellor's Scholars Program Newsletter Writer
