@@ -11,9 +11,9 @@ redirect_from:
 
 Download
 -----
-[My Resume](http://www.andythai.xyz/files/resume.pdf)
+<span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>
 
-[My CV](http://www.andythai.xyz/files/cv.pdf)
+<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>
 
 
 Curriculum Vitae
