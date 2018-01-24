@@ -10,10 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Download
------
+=====
 <span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>
-
-<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>
+<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
 
   
   
