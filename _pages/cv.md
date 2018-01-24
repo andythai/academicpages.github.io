@@ -10,23 +10,23 @@ redirect_from:
 {% include base_path %}
 
 Download
----
-[My Resume]: http://www.andythai.github.io/files/resume.pdf
+-----
+[My Resume](http://www.andythai.xyz/files/resume.pdf)
 
-[My CV]: http://www.andythai.github.io/files/cv.pdf
+[My CV](http://www.andythai.xyz/files/cv.pdf)
 
----
+
 Curriculum Vitae
----
+=====
 
-Education
-------
+### Education
+
 * B.S. in Mathematics-Computer Science, UCSD, 2018 (expected)
 * B.S. in Cognitive Science with Specialization in Human-Computer Interaction, UCSD, 2018 (expected)
 
 
-Work Experience
-------
+### Work Experience
+
 * 2015 - present: Research Assistant
   * UCSD Chiba Lab
   * Duties included: Vivarium duties, robot handling, video coding, scripting
@@ -36,8 +36,8 @@ Work Experience
   * Duties included: Database management, event planning, financial management, supervision
   
   
-Skills
-------
+### Skills
+
 * Programming
   * Python
   * C, C++
@@ -55,15 +55,15 @@ Skills
 * Research
 
 
-Teaching
-------
+### Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Relevant Courses
-------
+### Relevant Courses
+
 * Intro to Machine Learning I
 * Intro to Machine Learning II
 * Recommender Systems
@@ -75,8 +75,8 @@ Relevant Courses
 * Computer Animation
 
   
-Service and Leadership
-------
+### Service and Leadership
+
 * Inducted IEEE-Eta Kappa Nu 2018 Kappa Psi
 * Chancellor's Scholars Alliance Vice-President
 * Chancellor's Scholars Alliance Webmaster & Communications Chair
@@ -85,9 +85,13 @@ Service and Leadership
 * Scholars Society Overnight Stay Program Food Coordinator
 * Iaido Club Officer
 
+### Organizations
 
-Awards & Scholarships
-------
+* IEEE-HKN
+  * Inducted Eta Kappa Nu 2018 Kappa Psi
+
+### Awards & Scholarships
+
 * Student Foundation Scholarship
 * Provost's Honors
 * Chancellor's Scholarship
