@@ -1,13 +1,6 @@
 ---
-Download
----
-[My Resume]: http://www.andythai.github.io/files/resume.pdf
-
-[My CV]: http://www.andythai.github.io/files/cv.pdf
-
----
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Download
+---
+[My Resume]: http://www.andythai.github.io/files/resume.pdf
+
+[My CV]: http://www.andythai.github.io/files/cv.pdf
+
+---
+Curriculum Vitae
+---
 
 Education
 ------
