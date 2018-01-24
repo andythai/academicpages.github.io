@@ -1,4 +1,10 @@
 ---
+Download
+---
+My Resume
+My CV
+
+---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
