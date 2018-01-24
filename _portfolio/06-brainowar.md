@@ -1,7 +1,7 @@
 ---
 title: "Brain-o-War"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/brainowar.png'>"
+excerpt: "Brain-o-War is a simple tug-of-war game where players wrestle against a bot using their brainwaves.<br/><img src='/images/brainowar.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+brainowar.andythai.xyz
