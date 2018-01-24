@@ -65,15 +65,22 @@ Curriculum Vitae
   
 ### Relevant Courses
 
-* Intro to Machine Learning I
-* Intro to Machine Learning II
+* AI: Search & Reasoning
+* AI: Algorithms & Social Language
+* Neural Networks & Deep Learning
+* Graduate: Computation Models of Cognition
 * Recommender Systems
-* Cognitive Models
-* Applied Mathematics
-* Intro to Data Science
-* Combinatorics
+* Intro to Machine Learning I - Supervised Learning
+* Intro to Machine Learning II - Unsupervised Learning
+* Data Science in Practice
+* Neuroscience I, II, III
 * Computer Graphics
 * Computer Animation
+* Applied Mathematics
+* Combinatorics
+* Probability
+* Numerical Analysis in Linear Algebra
+* Modern Algebra
 
   
 ### Service and Leadership
