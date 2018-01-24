@@ -1,8 +1,9 @@
 ---
 Download
 ---
-My Resume
-My CV
+[My Resume]: http://www.andythai.github.io/files/resume.pdf
+
+[My CV]: http://www.andythai.github.io/files/cv.pdf
 
 ---
 layout: archive
