@@ -21,7 +21,7 @@ Curriculum Vitae
 
 Education
 ------
-* B.S. in Mathematics-Computer Science, UCSD, 2018 (expected) 2
+* B.S. in Mathematics-Computer Science, UCSD, 2018 (expected)
 * B.S. in Cognitive Science with Specialization in Human-Computer Interaction, UCSD, 2018 (expected)
 
 
