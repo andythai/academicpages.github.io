@@ -1,7 +1,7 @@
 ---
 title: "RUBI-6"
-excerpt: "Short description of portfolio item number 1<br/>[<img src='/images/rubi_project.png'>](www.rubi.ucsd.edu)"
+excerpt: "The RUBI project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers in early childhood education environments.<br/>[<img src='/images/rubi_project.png'>](www.rubi.ucsd.edu)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I work as the robot handler for RUBI-6.
