@@ -4,4 +4,4 @@ excerpt: "The RUBI project explores the possibilities of sociable robots as a to
 collection: portfolio
 ---
 
-I work as the robot handler for RUBI-6.
+I work as the robot handler for RUBI-6 and assist in documentation, maintenance, and demoing.
