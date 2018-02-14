@@ -2,11 +2,12 @@
 title: ""
 excerpt: "  
   
-----------------
   
 <br/>
 
-[<b>Brain-o-War</b>](http://braingame.andythai.xyz)<br/>
+[<b>Brain-o-War</b>](http://braingame.andythai.xyz)
+  
+<br/>
 
 <div class='w3-container'>
 [<img style='float: left;' src='/images/brainowar.png'>](http://braingame.andythai.xyz)
