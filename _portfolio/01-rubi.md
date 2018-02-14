@@ -10,7 +10,7 @@ excerpt: "
 
 <center><p>
 
-<img style='float: left;' src='/images/rubi_project.png'>
+<img style='float: right;' src='/images/rubi_project.png'>
 
 <b>RUBI-6</b><br/>
 (http://rubi.ucsd.edu)<br/>
