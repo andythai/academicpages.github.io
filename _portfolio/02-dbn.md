@@ -1,9 +1,6 @@
 ---
 title: ""
-excerpt: "  
-  
-----------------
-  
+excerpt: "    
 <br/>
 
 [<b>Deep Belief Network Analysis</b>](http://dbn.andythai.xyz)<br/>
