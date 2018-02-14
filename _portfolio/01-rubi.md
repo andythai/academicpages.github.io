@@ -1,7 +1,7 @@
 ---
 title: ""
 excerpt: "
-<a href="#top">Go to top</a><b>RUBI-6</b><br/>The RUBI project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers in early childhood education environments.<br/>[<img src='/images/rubi_project.png'>](http://rubi.ucsd.edu)"
+<a href="http://rubi.ucsd.edu"><b>RUBI-6</b></a><br/>The RUBI project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers in early childhood education environments.<br/>[<img src='/images/rubi_project.png'>](http://rubi.ucsd.edu)"
 collection: portfolio
 ---
 
