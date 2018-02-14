@@ -15,3 +15,6 @@ I am an undergraduate student currently studying Mathematics, Computer Science, 
 Interests
 ------
 Topics I am currently interested in exploring are machine learning, artificial intelligence, computer graphics, data science, and robotics.
+
+Highlights
+------
