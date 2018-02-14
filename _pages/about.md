@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About
-------
 In 2014, I entered UC San Diego as an undergraduate student, and am currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in Professor Andrea Chiba's neuroscience laboratory. 
 
 Interests
