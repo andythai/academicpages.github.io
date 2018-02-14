@@ -6,6 +6,7 @@ The RUBI project explores the possibilities of sociable robots as a tool for edu
 [<img src='/images/rubi_project.png'>](http://rubi.ucsd.edu)<br/>
   
   
+  
 ----------------
   
 "
