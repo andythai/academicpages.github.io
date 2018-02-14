@@ -7,10 +7,10 @@ excerpt: "
 
 <div class='w3-container'>
 
-[<img style='float: left;' src='/images/dbn.png'>](http://dbn.andythai.xyz)
-<center><p>
+[<img style='float: right;' src='/images/dbn.png' hspace='20'>](http://dbn.andythai.xyz)
+<p align='center'>
 An analysis of deep belief network performance on the MNIST dataset across different parameters.
-</p></center>
+</p>
 
 </div>
 <br/>
