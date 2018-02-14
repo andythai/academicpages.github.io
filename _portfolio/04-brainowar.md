@@ -1,16 +1,9 @@
 ---
 title: ""
 excerpt: "  
-  
-  
-<br/>  
-  
-----------------  
-  
-<br/>  
-  
-<br/>
 
+<br/>  
+  
 <div class='w3-container'>
 [<img style='float: left;' src='/images/brainowar.png'>]
 
