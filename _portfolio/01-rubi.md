@@ -8,7 +8,7 @@ excerpt: "
 
 <div class='w3-container'>
 
-<center><p>
+<p align='center'>
 
 <img style='float: right;' src='/images/rubi_project.png' hspace='20'>
 
@@ -17,7 +17,7 @@ excerpt: "
 
 The RUBI project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers in early childhood education environments.
 
-</p></center>
+</p>
 </div>
 <br/>
 <br/>
