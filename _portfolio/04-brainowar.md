@@ -5,7 +5,7 @@ excerpt: "
 <br/>  
   
 <div class='w3-container'>
-[<img style='float: left;' src='/images/brainowar.png'>]
+<img style='float: left;' src='/images/brainowar.png'>
 
 <center><p>
 <b>Brain-o-War</b><br/>
