@@ -8,6 +8,7 @@ excerpt: "
 <div class='w3-container'>
 
 <img style='float: right;' src='/images/project_titanic.png' hspace='20'>
+<br/>
 <p align='center'>
 <b>Project Titanic</b><br/>
 (http://titanic.andythai.xyz)<br/>
