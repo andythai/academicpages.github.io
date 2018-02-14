@@ -7,7 +7,8 @@ excerpt: "
 
 <img style='float: left;' src='/images/dbn.png' hspace='20'>
 <p align='center'><br/>
-[<b>Deep Belief Network Analysis</b>](http://dbn.andythai.xyz)<br/>
+<b>Deep Belief Network Analysis</b><br/>
+(http://dbn.andythai.xyz)<br/>
 An analysis of deep belief network performance on the MNIST dataset across different parameters.
 </p>
 
