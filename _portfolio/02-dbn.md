@@ -6,7 +6,7 @@ excerpt: "
 <div class='w3-container'>
 
 <img style='float: left;' src='/images/dbn.png' hspace='20'>
-<p align='center'><br/>
+<p align='center'><br/><br/>
 <b>Deep Belief Network Analysis</b><br/>
 (http://dbn.andythai.xyz)<br/>
 An analysis of deep belief network performance on the MNIST dataset across different parameters.
