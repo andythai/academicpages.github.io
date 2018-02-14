@@ -6,7 +6,7 @@ excerpt: "
   
 <br/>
 
-[<b>RUBI-6</b>](http://rubi.ucsd.edu)<br/>
+[<b>RUBI-6</b>](http://rubi.ucsd.edu)  
 
 <div class='w3-container'>
 
