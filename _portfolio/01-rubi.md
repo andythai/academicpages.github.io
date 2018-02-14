@@ -4,15 +4,13 @@ excerpt: "
   
 ----------------
   
-<br/>
-
 <div class='w3-container'>
 
 <p align='center'>
 
 <img style='float: right;' src='/images/rubi_project.png' hspace='20'>
 
-<br/><br/>
+<br/><br/><br/>
 
 <b>RUBI-6</b><br/>
 (http://rubi.ucsd.edu)<br/>
