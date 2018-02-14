@@ -8,7 +8,7 @@ excerpt: "
 
 <div class='w3-container'>
 
-<p align='left' margin-right='500'>
+<p align='justify'>
 
 <img style='float: right;' src='/images/rubi_project.png'>
 
