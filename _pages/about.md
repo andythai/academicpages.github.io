@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-In 2014, I entered UC San Diego as an undergraduate student, and am currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in Professor Andrea Chiba's neuroscience laboratory. 
+I am a student at UC San Diego and am currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in Professor Andrea Chiba's laboratory. 
 
 Interests
 ------
