@@ -8,7 +8,12 @@ excerpt: "
 
 [<b>Project Titanic</b>](http://titanic.andythai.xyz)<br/>
 <br/>
-[<img style='float: left;' src='/images/project_titanic.png'>](http://titanic.andythai.xyz)A simulation game where players navigate a ship around a procedurally generated naval terrain. Features a rendering engine programmed from scratch with bounding boxes, collision detection, procedural terrain, particle effects, and simple animation.<br/>"
+
+<div>
+[<img style='float: left;' src='/images/project_titanic.png'>](http://titanic.andythai.xyz)
+A simulation game where players navigate a ship around a procedurally generated naval terrain. Features a rendering engine programmed from scratch with bounding boxes, collision detection, procedural terrain, particle effects, and simple animation.<br/>
+</div>
+"
 collection: portfolio
 ---
 <img style="float: right;" src="whatever.jpg">
