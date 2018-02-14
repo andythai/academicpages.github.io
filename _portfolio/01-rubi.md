@@ -21,9 +21,7 @@ The RUBI project explores the possibilities of sociable robots as a tool for edu
 </div>
 <br/>
 <br/>
-  
-----------------
-  
+    
 "
 collection: portfolio
 ---
