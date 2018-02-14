@@ -8,9 +8,9 @@ excerpt: "
 
 <div class='w3-container'>
 
-<p align='justify'>
+<p align='center'>
 
-<img style='float: right;' src='/images/rubi_project.png'>
+<img style='float: right;' src='/images/rubi_project.png' hspace='20'>
 
 <b>RUBI-6</b><br/>
 (http://rubi.ucsd.edu)<br/>
