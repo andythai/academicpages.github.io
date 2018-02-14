@@ -9,7 +9,7 @@ redirect_from:
 ---
 About
 ------
-I am originally from San Jose, California. In 2014, I entered UC San Diego as an undergraduate student, and am currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in Professor Andrea Chiba's neuroscience laboratory. 
+In 2014, I entered UC San Diego as an undergraduate student, and am currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in Professor Andrea Chiba's neuroscience laboratory. 
 
 Interests
 ------
