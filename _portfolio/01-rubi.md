@@ -12,7 +12,7 @@ excerpt: "
 
 <img style='float: right;' src='/images/rubi_project.png' hspace='20'>
 
-<br/>
+<br/><br/>
 
 <b>RUBI-6</b><br/>
 (http://rubi.ucsd.edu)<br/>
