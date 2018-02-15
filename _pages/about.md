@@ -21,6 +21,6 @@ In particular, I am interested in pursuing machine learning applications in comp
   
 Education
 ------  
-<b><i>UCSD (2014 - 2018)</i></b>  
+<b>UCSD (2014 - 2018)</b>  
 B.S. Mathematics-Computer Science (Expected June 2018)  
 B.S. Cognitive Science w/ Specialization in Human-Computer Interaction (Expected June 2018)  
