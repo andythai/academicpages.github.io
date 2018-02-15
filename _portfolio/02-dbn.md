@@ -10,7 +10,7 @@ excerpt: "
 <span style='color:blue'>
    <a href='http://dbn.andythai.xyz'>dbn.andythai.xyz</a><br/>
 </span>
-  An analysis of deep belief network performance on the MNIST dataset across different parameters.
+  An analysis of deep belief network performance on the MNIST dataset using different parameters.
 </p>
 
 </div>
