@@ -7,18 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<i>Undergraduate  
+Department of Cognitive Science  
+Department of Mathematics  
+University of California, San Diego </i>  
+  
 I am a student at UC San Diego, currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in the Chiba lab. 
+
+<span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>  
+<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
+
 
 Interests
 ------
 Topics I am currently interested in exploring are machine learning, artificial intelligence, computer graphics, data science, and robotics.
-
-Highlights
-------
-Undergraduate  
-Department of Cognitive Science  
-Department of Mathematics  
-University of California, San Diego  
-IEEE-HKN  
-<span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>  
-<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
