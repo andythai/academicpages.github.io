@@ -12,7 +12,9 @@ excerpt: "
 <br/>
 <p align='center'>
 <b>Project Titanic</b><br/>
-(http://titanic.andythai.xyz)<br/>
+<span style='color:blue'>
+   <a href='http://titanic.andythai.xyz'>titanic.andythai.xyz</a><br/>
+</span>
 A simulation game where players navigate a ship around a procedurally generated naval terrain. Features a rendering engine programmed from scratch with bounding boxes, collision detection, procedural terrain, particle effects, and simple animation.
 </p>
 
