@@ -12,7 +12,7 @@ excerpt: "
 
 <p align='center'>
     
-<br/><br/><br/><br/>
+<br/><br/><br/>
  
 <b>Car Crashes in Allegheny</b><br/>
 (http://allegheny.andythai.xyz)<br/>
