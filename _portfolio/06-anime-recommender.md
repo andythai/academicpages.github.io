@@ -11,7 +11,9 @@ excerpt: "
 <br/><br/><br/>
 
 <b>Anime Recommender System</b><br/>
-(http://anime.andythai.xyz)<br/>
+<span style='color:blue'>
+   <a href='http://anime.andythai.xyz'>anime.andythai.xyz</a><br/>
+</span>
 A collaborative filtering recommender system that offers suggested anime based on given user preferences and viewing history, taken from a Kaggle dataset containing MyAnimeList.net users.
 
 </p>
