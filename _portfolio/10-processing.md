@@ -2,12 +2,21 @@
 title: ""
 excerpt: "  
   
-----------------
+<br/>
+
+<div class='w3-container'>
+[<img src='/images/processing.png'>](http://processing.andythai.xyz)
+  
+<p align='center'>
   
 <br/>
-[<b>4K Processing Animation</b>](http://processing.andythai.xyz)<br/>
+<b>4K Processing Animation</b><br/>
+(http://processing.andythai.xyz)<br/>
 A short animation written in Processing's Java code, rendered in 4K resolution.<br/>
-[<img src='/images/processing.png'>](http://processing.andythai.xyz)"
+  
+</p>
+</div>
+"
 collection: portfolio
 ---
 
