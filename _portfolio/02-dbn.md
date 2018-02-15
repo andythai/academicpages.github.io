@@ -1,8 +1,6 @@
 ---
 title: ""
-excerpt: "    
-<br/>
-
+excerpt: "
 <div class='w3-container'>
 
 <img style='float: left;' src='/images/dbn.png' hspace='20'>
