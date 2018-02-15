@@ -13,6 +13,7 @@ excerpt: "
 (http://soundboard.andythai.xyz)<br/>  
 A web application that plays sets of preset sound themes in a soundboard format.<br/>
 </p>
+</div>
 "
 collection: portfolio
 ---
