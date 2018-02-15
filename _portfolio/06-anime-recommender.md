@@ -17,6 +17,9 @@ excerpt: "
 A collaborative filtering recommender system that offers suggested anime based on given user preferences and viewing history, taken from a Kaggle dataset containing MyAnimeList.net users.
 
 </p>
+
+</div>
+
 <br/>
 "
 collection: portfolio
