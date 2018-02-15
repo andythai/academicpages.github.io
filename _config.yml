@@ -80,9 +80,9 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Dept. of Cognitive Science<br/>Dept. of Mathematics<br/>UCSD"
+  bio              : "Dept. of Cognitive Science<br/>Dept. of Mathematics"
   location         : "La Jolla, United States"
-  employer         : "UC San Diego"
+  employer         : "UCSD"
   googlescholar    :
   email            : "andythai at ucsd dot edu"
   uri              :
