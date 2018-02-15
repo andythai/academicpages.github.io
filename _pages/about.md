@@ -11,7 +11,7 @@ redirect_from:
 Department of Mathematics  
 University of California, San Diego
 
-B.S. Mathematics-Computer Science (June 2018)
+B.S. Mathematics-Computer Science (June 2018)  
 B.S. Cognitive Science w/ Specialization in Human-Computer Interaction (2018)
 </i>  
   
