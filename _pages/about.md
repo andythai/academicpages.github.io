@@ -10,8 +10,8 @@ redirect_from:
     
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science. I currently work as a research assistant in the Chiba Lab. 
   
-<span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>  
-<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
+<span style="color:blue"><a href='http://www.andythai.xyz/files/resume.pdf' target='_blank'>My Resume</a></span>  
+<span style="color:blue"><a href='http://www.andythai.xyz/files/cv.pdf' target='_blank'>My CV</a></span>  
   
 Interests
 ------
