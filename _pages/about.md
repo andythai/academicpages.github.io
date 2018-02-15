@@ -10,11 +10,12 @@ redirect_from:
 <i>Department of Cognitive Science  
 Department of Mathematics  
 University of California, San Diego</i>
-
-<i>B.S. Mathematics-Computer Science (June 2018)  
-B.S. Cognitive Science w/ Specialization in Human-Computer Interaction (June 2018)</i>  
-  
+    
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science. I currently work as a research assistant in the Chiba Lab. 
+
+<u>UCSD</u>
+B.S. Mathematics-Computer Science (June 2018)  
+B.S. Cognitive Science w/ Specialization in Human-Computer Interaction (June 2018)  
 
 <span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>  
 <span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
