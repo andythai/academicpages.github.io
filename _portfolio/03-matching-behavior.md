@@ -14,7 +14,6 @@ excerpt: "
 </p>
 
 </div>
-<br/>
 "
 collection: portfolio
 ---
