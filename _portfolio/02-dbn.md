@@ -4,7 +4,8 @@ excerpt: "
 <div class='w3-container'>
 
 <img style='float: right;' src='/images/dbn.png' hspace='20'>
-<p align='center'><br/><br/>
+<p align='center'><br/><br/><br/>
+   
 <b>Deep Belief Network Analysis</b><br/>
 <span style='color:blue'>
    <a href='http://dbn.andythai.xyz'>dbn.andythai.xyz</a><br/>
