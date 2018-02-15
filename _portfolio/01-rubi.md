@@ -14,7 +14,7 @@ excerpt: "
   
 <b>RUBI-6</b><br/>
 <span style='color:blue'>
-   <a href='http://rubi.ucsd.edu'>rubi.ucsd.edu</a><br/>
+   <a href='http://rubi.ucsd.edu' target='_blank'>rubi.ucsd.edu</a><br/>
 </span>
 The RUBI project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers in early childhood education environments.
 
