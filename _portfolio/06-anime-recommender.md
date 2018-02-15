@@ -2,8 +2,6 @@
 title: ""
 excerpt: "  
 
-<br/>
-
 <div class='w3-container'>
 
 <img src='/images/animerecommender.png' style='float: left;' hspace='20'>
