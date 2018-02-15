@@ -47,11 +47,12 @@ Curriculum Vitae
   * HTML, CSS, Javascript
   * MATLAB
   * ARM Assembly
+  * SQLite
 * Linux / Unix Systems
   * Bash, shell scripting
-* Machine Learning
+* AI & Machine Learning
 * Data Science
-* Computer Graphics
+* Computer Graphics & Animation
 * Applied Math
 * Neuroscience
 * Research
@@ -66,22 +67,26 @@ Curriculum Vitae
   
 ### Relevant Courses
 
-* AI: Search & Reasoning
-* AI: Algorithms & Social Language
-* Neural Networks & Deep Learning
-* Graduate: Computation Models of Cognition
-* Recommender Systems
-* Intro to Machine Learning I - Supervised Learning
-* Intro to Machine Learning II - Unsupervised Learning
-* Data Science in Practice
-* Neuroscience I, II, III
-* Computer Graphics
-* Computer Animation
-* Applied Mathematics
-* Combinatorics
-* Probability
-* Numerical Analysis in Linear Algebra
-* Modern Algebra
+* Computer Science
+  * AI: Search & Reasoning
+  * AI: Algorithms & Social Language
+  * Neural Networks & Deep Learning
+  * Recommender Systems
+  * Advanced Computer Graphics
+  * Computer Animation
+* Cognitive Science
+  * Graduate: Computation Models of Cognition
+  * Intro to Machine Learning I - Supervised Learning
+  * Intro to Machine Learning II - Unsupervised Learning
+  * Advanced Machine Learning Techniques
+  * Data Science in Practice
+  * Neuroscience I, II
+* Mathematics
+  * Applied Mathematics
+  * Combinatorics
+  * Probability
+  * Numerical Analysis in Linear Algebra
+  * Modern Algebra
 
   
 ### Service and Leadership
@@ -100,6 +105,6 @@ Curriculum Vitae
 
 ### Awards & Scholarships
 
-* Student Foundation Scholarship
-* Provost's Honors
-* Chancellor's Scholarship
+* UCSD Student Foundation Scholarship
+* UCSD Provost's Honors
+* UCSD Chancellor's Scholarship
