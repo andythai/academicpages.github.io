@@ -8,7 +8,7 @@ excerpt: "
    
 <b>Deep Belief Network Analysis</b><br/>
 <span style='color:blue'>
-   <a href='http://dbn.andythai.xyz'>dbn.andythai.xyz</a><br/>
+   <a href='http://dbn.andythai.xyz' target='_blank'>dbn.andythai.xyz</a><br/>
 </span>
   An analysis of deep belief network performance on the MNIST dataset using different parameters.
 </p>
