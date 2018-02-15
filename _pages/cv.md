@@ -66,29 +66,29 @@ Curriculum Vitae
   
   
 ### Relevant Courses
-
-* Computer Science
-  * AI: Search & Reasoning
-  * AI: Algorithms & Social Language
-  * Neural Networks & Deep Learning
-  * Recommender Systems
-  * Advanced Computer Graphics (expected)
-  * Computer Animation
-  * Computer Vision (expected)
-* Cognitive Science
-  * Graduate: Computation Models of Cognition
-  * Intro to Machine Learning I - Supervised Learning
-  * Intro to Machine Learning II - Unsupervised Learning
-  * Advanced Machine Learning Methods (expected)
-  * Data Science in Practice
-  * Neuroscience I, II
-  * Brain-Computing Interfaces
-* Mathematics
-  * Applied Mathematics
-  * Combinatorics
-  * Probability
-  * Numerical Analysis in Linear Algebra
-  * Modern Algebra
+* UCSD
+  * Computer Science
+    * AI: Search & Reasoning
+    * AI: Algorithms & Social Language
+    * Neural Networks & Deep Learning
+    * Recommender Systems
+    * Advanced Computer Graphics (expected)
+    * Computer Animation
+    * Computer Vision (expected)
+  * Cognitive Science
+    * Graduate: Computation Models of Cognition
+    * Intro to Machine Learning I - Supervised Learning
+    * Intro to Machine Learning II - Unsupervised Learning
+    * Advanced Machine Learning Methods (expected)
+    * Data Science in Practice
+    * Neuroscience I, II
+    * Brain-Computing Interfaces
+  * Mathematics
+    * Applied Mathematics
+    * Combinatorics
+    * Probability
+    * Numerical Analysis in Linear Algebra
+    * Modern Algebra
 
   
 ### Service and Leadership
