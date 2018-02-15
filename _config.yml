@@ -80,7 +80,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "<i>Department of Cognitive Science<br/>Department of Mathematics<br/>University of California, San Diego</i>"
+  bio              : "<center><i>Department of Cognitive Science<br/>Department of Mathematics<br/>University of California, San Diego</i></center>"
   location         : "La Jolla, United States"
   employer         : "UC San Diego"
   googlescholar    :
