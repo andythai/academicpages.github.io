@@ -11,7 +11,7 @@ excerpt: "
 <span style='color:blue'>
    <a href='http://braingame.andythai.xyz' target='_blank'>braingame.andythai.xyz</a><br/>
 </span>
-A tug-of-war game where players wrestle using their brainwaves. Built on a rendering engine made from scratch with a simple bot agent of varying difficulties and interfaces with the Neurosky MindWave headset API.<br/>
+A tug-of-war game where players wrestle using their brainwaves. Built on a rendering engine made from scratch with a simple bot agent of varying difficulties. This game interfaces with the Neurosky MindWave headset API.<br/>
 </p></center>
 </div>"
 collection: portfolio
