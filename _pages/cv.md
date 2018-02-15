@@ -31,7 +31,7 @@ Curriculum Vitae
 
 * 2015 - present: Research Assistant
   * UCSD Chiba Lab
-  * Duties included: Vivarium duties, robot handling, video coding, scripting
+  * Duties included: Vivarium duties, robot handling, video coding, programming, scripting
 
 * 2015 - 2016: Office & Supplies Manager
   * UCSD Retirement Resource Center
