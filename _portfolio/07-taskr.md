@@ -10,7 +10,9 @@ excerpt: "
 <br/><br/><br/>
 
 <b>Taskr</b><br/>
-(http://taskr.andythai.xyz)<br/>
+<span style='color:blue'>
+   <a href='http://taskr.andythai.xyz'>taskr.andythai.xyz</a><br/>
+</span>
 A web application made for users to schedule everyday tasks using the Eisenhower Matrix scheduling format.<br/>
 
 </p>
