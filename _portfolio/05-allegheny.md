@@ -15,7 +15,9 @@ excerpt: "
 <br/><br/><br/>
  
 <b>Car Crashes in Allegheny</b><br/>
-(http://allegheny.andythai.xyz)<br/>
+<span style='color:blue'>
+   <a href='http://allegheny.andythai.xyz'>allegheny.andythai.xyz</a><br/>
+</span>
 An analytical project exploring various variables that potentially play as factors in car crash frequencies and severities.
 </p>  
 
