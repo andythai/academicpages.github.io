@@ -12,7 +12,7 @@ excerpt: "
 <br/><br/><br/>
 <b>4K Processing Animation</b><br/>
 <span style='color:blue'>
-  <a href='http://processing.andythai.xyz'>processing.andythai.xyz</a>
+  <a href='http://processing.andythai.xyz' target='_blank'>processing.andythai.xyz</a>
 </span><br/>
 A short animation written in Processing's Java code, rendered in 4K resolution.<br/>
   
