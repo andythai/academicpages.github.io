@@ -9,7 +9,11 @@ redirect_from:
 ---
 <i>Department of Cognitive Science  
 Department of Mathematics  
-University of California, San Diego</i>  
+University of California, San Diego
+
+B.S. Mathematics-Computer Science (June 2018)
+B.S. Cognitive Science w/ Specialization in Human-Computer Interaction (2018)
+</i>  
   
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science. I currently work as a research assistant in the Chiba Lab. 
 
