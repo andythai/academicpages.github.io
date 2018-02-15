@@ -13,7 +13,9 @@ excerpt: "
 <br/><br/><br/><br/>
 
 <b>Chancellor's Scholars Alliance Website</b><br/>
-(http://csa.andythai.xyz)<br/>
+<span style='color:blue'>
+   <a href='http://csa.andythai.xyz'>csa.andythai.xyz</a><br/>
+</span>
 A website made and updated for the UCSD Chancellor's Scholars Alliance student organization.
 </p>
 </div>
