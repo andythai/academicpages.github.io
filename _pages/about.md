@@ -20,4 +20,5 @@ I am an undergraduate student at UC San Diego studying Mathematics, Computer Sci
 Interests
 ------
 Topics I am exploring include machine learning, computer graphics, data science, neuroscience, and robotics.   
+  
 In particular, I am interested in pursuing machine learning applications in computer graphics, specifically computer animation, as well as  interdisciplinary research within cognitive science.
