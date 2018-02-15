@@ -10,7 +10,9 @@ excerpt: "
 <br/><br/><br/><br/><br/><br/>  
   
 <b>Soundboard Website</b><br/>
-(http://soundboard.andythai.xyz)<br/>  
+<span style='color:blue'>
+   <a href='http://soundboard.andythai.xyz'>soundboard.andythai.xyz</a><br/>
+</span>
 A web application that plays sets of preset sound themes in a soundboard format.<br/>
 </p>
 </div>
