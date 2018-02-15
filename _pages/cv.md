@@ -72,15 +72,17 @@ Curriculum Vitae
   * AI: Algorithms & Social Language
   * Neural Networks & Deep Learning
   * Recommender Systems
-  * Advanced Computer Graphics
+  * Advanced Computer Graphics (expected)
   * Computer Animation
+  * Computer Vision (expected)
 * Cognitive Science
   * Graduate: Computation Models of Cognition
   * Intro to Machine Learning I - Supervised Learning
   * Intro to Machine Learning II - Unsupervised Learning
-  * Advanced Machine Learning Techniques
+  * Advanced Machine Learning Methods (expected)
   * Data Science in Practice
   * Neuroscience I, II
+  * Brain-Computing Interfaces
 * Mathematics
   * Applied Mathematics
   * Combinatorics
