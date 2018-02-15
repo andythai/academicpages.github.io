@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a student at UC San Diego and am currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in the Chiba lab. 
+I am a student at UC San Diego, currently studying Mathematics, Computer Science, and Cognitive Science as part of my majors. As of now, I work as a research assistant in the Chiba lab. 
 
 Interests
 ------
