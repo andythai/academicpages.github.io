@@ -10,7 +10,7 @@ excerpt: "
 
 <p align='center'>
 
-<br/>
+<br/><br/>
 
 <b>Anime Recommender System</b><br/>
 (http://anime.andythai.xyz)<br/>
