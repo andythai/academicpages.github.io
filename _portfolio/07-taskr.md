@@ -8,7 +8,7 @@ excerpt: "
 
 <p align='center'>
   
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <b>Taskr</b><br/>
 (http://taskr.andythai.xyz)<br/>
