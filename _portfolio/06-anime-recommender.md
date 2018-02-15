@@ -17,8 +17,6 @@ A collaborative filtering recommender system that offers suggested anime based o
 </p>
 
 </div>
-
-<br/>
 "
 collection: portfolio
 ---
