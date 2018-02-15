@@ -4,6 +4,7 @@ excerpt: "
     
 <br/>
 <br/>
+<br/>
 
 <div class='w3-container'>
 
@@ -11,6 +12,8 @@ excerpt: "
 
 <p align='center'>
     
+<br/>
+ 
 <b>Car Crashes in Allegheny</b><br/>
 (http://allegheny.andythai.xyz)<br/>
 An analytical project exploring various variables that potentially play as factors in car crash frequencies and severities.
