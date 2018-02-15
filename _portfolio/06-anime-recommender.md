@@ -14,7 +14,7 @@ excerpt: "
 <span style='color:blue'>
    <a href='http://anime.andythai.xyz'>anime.andythai.xyz</a><br/>
 </span>
-A collaborative filtering recommender system that offers suggested anime based on given user preferences and viewing history, taken from a Kaggle dataset containing MyAnimeList.net users.
+An analysis on a partner-designed collaborative filtering recommender system that offers suggested anime based on given user preferences and viewing history, taken from a Kaggle dataset containing MyAnimeList.net users. 
 
 </p>
 
