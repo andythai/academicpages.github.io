@@ -9,7 +9,7 @@ excerpt: "
   
 <p align='center'>
   
-<br/>
+<br/><br/>
 <b>4K Processing Animation</b><br/>
 (http://processing.andythai.xyz)<br/>
 A short animation written in Processing's Java code, rendered in 4K resolution.<br/>
