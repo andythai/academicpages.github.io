@@ -9,9 +9,11 @@ excerpt: "
   
 <p align='center'>
   
-<br/><br/>
+<br/><br/><br/>
 <b>4K Processing Animation</b><br/>
-(<span style='color:blue'>[http://processing.andythai.xyz](http://processing.andythai.xyz)</span>)<br/>
+(<span style='color:blue'>
+<a href='http://processing.andythai.xyz'>http://processing.andythai.xyz</a>
+</span>)<br/>
 A short animation written in Processing's Java code, rendered in 4K resolution.<br/>
   
 </p>
