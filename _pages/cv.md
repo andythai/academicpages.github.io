@@ -15,6 +15,7 @@ Download
 <span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
 
   
+<hr>
   
 
 Curriculum Vitae
