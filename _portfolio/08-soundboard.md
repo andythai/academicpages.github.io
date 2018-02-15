@@ -3,7 +3,7 @@ title: ""
 excerpt: "  
   
 <div class='w3-container'>
-<img src='/images/soundboard_project.png' hspace='20' style='float: left'>
+<img src='/images/soundboard_project.png' hspace='20' style='float: right'>
   
 <p align='center'>
   
