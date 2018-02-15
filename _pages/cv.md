@@ -11,8 +11,8 @@ redirect_from:
 
 Download
 =====
-<span style="color:blue">[My Resume](http://www.andythai.xyz/files/resume.pdf)</span>  
-<span style="color:blue">[My CV](http://www.andythai.xyz/files/cv.pdf)</span>  
+<span style="color:blue"><a href='http://www.andythai.xyz/files/resume.pdf' target='_blank'>My Resume</a></span>  
+<span style="color:blue"><a href='http://www.andythai.xyz/files/cv.pdf' target='_blank'>My CV</a></span>  
 
   
 <hr>
