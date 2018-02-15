@@ -13,7 +13,7 @@ University of California, San Diego</i>
     
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science. I currently work as a research assistant in the Chiba Lab. 
 
-<b>UCSD</b>  
+<b><i>UCSD</i></b>  
 B.S. Mathematics-Computer Science (June 2018)  
 B.S. Cognitive Science w/ Specialization in Human-Computer Interaction (June 2018)  
 
