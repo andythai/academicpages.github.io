@@ -16,7 +16,6 @@ A web application made for users to schedule everyday tasks using the Eisenhower
 
 </p>
 </div>
-<br/>
 "
 collection: portfolio
 ---
