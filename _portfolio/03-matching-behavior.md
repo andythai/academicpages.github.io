@@ -10,7 +10,7 @@ excerpt: "
 <span style='color:blue'>
    <a href='http://matching.andythai.xyz'>matching.andythai.xyz</a><br/>
 </span>
-  An analytical simulation of matching behavior in terms of reward-decision making as studied in the Sugrue paper <i>Matching behavior and the representation of value in the parietal cortex</i>.
+  An simulation and corresponding analysis of matching behavior in regards to reward-decision making as studied in the Sugrue paper <i>Matching behavior and the representation of value in the parietal cortex</i>.
 </p>
 
 </div>
