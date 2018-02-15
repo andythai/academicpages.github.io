@@ -4,7 +4,7 @@ excerpt: "
 
 <div class='w3-container'>
 
-<img src='/images/animerecommender.png' style='float: left;' hspace='20'>
+<img src='/images/animerecommender.png' style='float: right;' hspace='20'>
 
 <p align='center'>
 
