@@ -21,7 +21,7 @@ In particular, I am interested in pursuing machine learning applications in comp
   
 Education
 ------  
-<b>(2018 - ...)</b>  
+<b>TBD (2018 - ...)</b>  
 Ph.D. Computer Science
 
 <b>UCSD (2014 - 2018)</b>  
