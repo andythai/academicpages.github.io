@@ -21,8 +21,6 @@ In particular, I am interested in pursuing machine learning applications in comp
   
 Education
 ------  
-<b>TBD (2018 - ...)</b>  
-Ph.D. Computer Science
 
 <b>UCSD (2014 - 2018)</b>  
 B.S. Mathematics-Computer Science (Expected June 2018)  
