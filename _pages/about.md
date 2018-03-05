@@ -17,7 +17,7 @@ Interests
 ------
 Topics I am exploring include machine learning, cognitive science, data science, robotics, and computer graphics.   
   
-In particular, I am interested in pursuing machine learning applications in interdisciplinary cognitive science research and computer graphics, specifically computer animation.
+In particular, I am interested in pursuing machine learning applications in interdisciplinary cognitive science research and computer graphics, specifically within computer vision and animation.
   
 Education
 ------  
