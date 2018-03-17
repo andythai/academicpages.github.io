@@ -23,7 +23,7 @@ My research interests are relatively diverse and interdisciplinary, but topics I
     
 Education
 ------  
-<b>TBD (2018 - ...)</b>
+<b>TBD (2018 - ...)</b>  
 Ph.D. 
 
 <b>UCSD (2014 - expected 2018)</b>  
