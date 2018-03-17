@@ -19,7 +19,7 @@ My research interests are relatively diverse and interdisciplinary. Topics I wou
 * Applied machine learning
 * Computational cognitive models
 * Computer graphics & vision
-  * Non-photorealistic rendering
+  * Non-photorealistic rendering (NPR)
     
 Education
 ------  
