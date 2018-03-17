@@ -15,7 +15,7 @@ I am an undergraduate student at UC San Diego studying Mathematics, Computer Sci
   
 Interests
 ------
-My research interests are relatively diverse and interdisciplinary, but topics I would like to explore include:
+My research interests are relatively diverse and interdisciplinary. Topics I would like to explore include:
 * Applied machine learning
 * Computational cognitive models
 * Computer graphics & vision
