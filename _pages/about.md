@@ -35,9 +35,10 @@ B.S. Mathematics-Computer Science
 B.S. Cognitive Science w/ Specialization in Human-Computer Interaction  
 
 
+
 <!-- hitwebcounter Code START -->
 <a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=6915492&style=0008&nbdigits=5&type=ip&initCount=0" title="" Alt=""   border="0" >
+<img src="http://hitwebcounter.com/counter/counter.php?page=6915493&style=0008&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
 </a>                                        <br/>
                                         <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
                                         target="_blank" style="font-family: ; 
