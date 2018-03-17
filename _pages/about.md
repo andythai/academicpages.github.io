@@ -20,6 +20,7 @@ My research interests are relatively diverse and interdisciplinary. Topics I wou
 * Computer vision
 * Computer graphics
   * Non-photorealistic rendering (NPR)  
+  
 In the past I have worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity.
     
 Education
