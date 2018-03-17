@@ -42,6 +42,6 @@ B.S. Cognitive Science w/ Specialization in Human-Computer Interaction
 </a>                                        <br/>
                                         <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
                                         target="_blank" style="font-family: ; 
-                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        font-size: px; color: #; text-decoration:  ;">
                                         </a>   
                             
