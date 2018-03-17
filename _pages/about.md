@@ -13,13 +13,14 @@ I am an undergraduate student at UC San Diego studying Mathematics, Computer Sci
 <span style="color:blue"><a href='http://www.andythai.xyz/files/resume.pdf' target='_blank'>My Resume</a></span>  
 <span style="color:blue"><a href='http://www.andythai.xyz/files/cv.pdf' target='_blank'>My CV</a></span>  
   
-Interests
+Research
 ------
 My research interests are relatively diverse and interdisciplinary. Topics I would like to explore include:
 * Computational cognitive models & machine learning
 * Computer vision
 * Computer graphics
-  * Non-photorealistic rendering (NPR)
+  * Non-photorealistic rendering (NPR)  
+In the past I have worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity.
     
 Education
 ------  
