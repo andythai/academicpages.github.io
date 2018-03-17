@@ -16,9 +16,9 @@ I am an undergraduate student at UC San Diego studying Mathematics, Computer Sci
 Interests
 ------
 My research interests are relatively diverse and interdisciplinary. Topics I would like to explore include:
-* Applied machine learning
-* Computational cognitive models
-* Computer graphics & vision
+* Computational cognitive models & machine learning
+* Computer vision
+* Computer graphics
   * Non-photorealistic rendering (NPR)
     
 Education
