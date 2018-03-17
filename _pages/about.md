@@ -17,14 +17,14 @@ Interests
 ------
 My research interests are relatively diverse and interdisciplinary, but topics I would like to explore include:
 * Applied machine learning
+* Computational cognitive models
 * Computer graphics & vision
   * Non-photorealistic rendering
-* Computational cognition
     
 Education
 ------  
-
-Ph.D. (2018 - ...)  
+<b>TBD (2018 - ...)</b>
+Ph.D. 
 
 <b>UCSD (2014 - expected 2018)</b>  
 B.S. Mathematics-Computer Science  
