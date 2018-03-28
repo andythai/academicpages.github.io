@@ -9,7 +9,7 @@ redirect_from:
 ---
     
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science.  
-I currently work as a research assistant in <span style="color:blue"><a href='https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx'>Prof. Andrea Chiba</a></span>'s laboratory.  
+I currently work as a research assistant in <span style="color:blue"><a href='https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx'>Professor Andrea Chiba</a></span>'s laboratory.  
   
 <span style="color:blue"><a href='http://www.andythai.xyz/files/resume.pdf' target='_blank'>My Resume</a></span>  
 <span style="color:blue"><a href='http://www.andythai.xyz/files/cv.pdf' target='_blank'>My CV</a></span>  
