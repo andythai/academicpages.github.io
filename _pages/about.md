@@ -31,6 +31,6 @@ Education
 <b>TBD (2018 - ...)</b>  
 Ph.D. 
 
-<b>UCSD (2014 - expected 2018)</b>  
+<b>UCSD (2014 - 2018)</b>  
 B.S. Mathematics-Computer Science  
 B.S. Cognitive Science w/ Specialization in Human-Computer Interaction  
