@@ -16,8 +16,7 @@ I currently work as a research assistant in <span style="color:blue"><a href='ht
   
 Research
 ------
-My research interests are relatively diverse.  
-Topics I would like to explore include:
+My research interests are relatively diverse. Topics I would like to explore include:  
 * Computer vision
 * Computer graphics
   * Non-photorealistic rendering (NPR)  
