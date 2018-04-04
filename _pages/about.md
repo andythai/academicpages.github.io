@@ -28,8 +28,8 @@ In the past I have worked on studies relating to social robotics, animal-robot i
     
 Education
 ------  
-<b>TBD (2018 - ...)</b>  
-Ph.D. 
+<b>UC Irvine (2018 - ...)</b>  
+Ph.D. Computer Science  
 
 <b>UCSD (2014 - 2018)</b>  
 B.S. Mathematics-Computer Science  
