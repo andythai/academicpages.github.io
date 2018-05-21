@@ -11,7 +11,7 @@ excerpt: "
   
 <b>Soundboard Website</b><br/>
 <span style='color:blue'>
-   <a href='http://soundboard.andythai.xyz' target='_blank'>soundboard.andythai.xyz</a><br/>
+   <a href='http://andyth.ai/soundboard-project' target='_blank'>andyth.ai/soundboard-project</a><br/>
 </span>
 A web application that plays sets of preset sound themes in a soundboard format.<br/>
 </p>
@@ -19,5 +19,3 @@ A web application that plays sets of preset sound themes in a soundboard format.
 "
 collection: portfolio
 ---
-
-soundboard.andythai.xyz
