@@ -20,8 +20,8 @@ Research
 My research interests are:  
 * Computer vision
 * Computer graphics
-  * Non-photorealistic rendering (NPR)  
   * Computer animation  
+  * Non-photorealistic rendering (NPR)  
 * Computational cognitive modeling & machine learning  
   * Generative modeling  
   
