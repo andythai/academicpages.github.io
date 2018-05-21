@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-    
 About Me
 ------
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science.  
