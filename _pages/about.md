@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Andy Thai"
 author_profile: true
 redirect_from: 
   - /about/
