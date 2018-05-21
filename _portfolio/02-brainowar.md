@@ -9,7 +9,7 @@ excerpt: "
 <br/><br/>
 <b>Brain-o-War</b><br/>
 <span style='color:blue'>
-   <a href='http://braingame.andythai.xyz' target='_blank'>braingame.andythai.xyz</a><br/>
+   <a href='http://andyth.ai/brainowar' target='_blank'>andyth.ai/brainowar</a><br/>
 </span>
 A tug-of-war game where players wrestle using their brainwaves. Built on a rendering engine made from scratch with a simple bot agent of varying difficulties. This game interfaces with the Neurosky MindWave headset API.<br/>
 </p></center>
@@ -17,4 +17,4 @@ A tug-of-war game where players wrestle using their brainwaves. Built on a rende
 collection: portfolio
 ---
 
-braingame.andythai.xyz
+andyth.ai/brainowar  
