@@ -11,7 +11,7 @@ excerpt: "
 
 <b>Taskr</b><br/>
 <span style='color:blue'>
-   <a href='http://taskr.andythai.xyz' target='_blank'>taskr.andythai.xyz</a><br/>
+   <a href='http://andyth.ai/taskr' target='_blank'>andyth.ai/taskr</a><br/>
 </span>
 A web application made for users to schedule everyday tasks using the Eisenhower Matrix scheduling format.<br/>
 
@@ -20,5 +20,3 @@ A web application made for users to schedule everyday tasks using the Eisenhower
 "
 collection: portfolio
 ---
-
-taskr.andythai.xyz
