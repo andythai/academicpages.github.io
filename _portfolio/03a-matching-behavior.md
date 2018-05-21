@@ -17,5 +17,3 @@ excerpt: "
 "
 collection: portfolio
 ---
-
-matching.andythai.xyz
