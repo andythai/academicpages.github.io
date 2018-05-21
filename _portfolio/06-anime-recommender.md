@@ -12,7 +12,7 @@ excerpt: "
 
 <b>Anime Recommender System</b><br/>
 <span style='color:blue'>
-   <a href='http://anime.andythai.xyz' target='_blank'>anime.andythai.xyz</a><br/>
+   <a href='http://andyth.ai/anime-recommender' target='_blank'>andyth.ai/anime-recommender</a><br/>
 </span>
 An analysis on a partner-designed collaborative filtering recommender system that offers suggested anime based on given user preferences and viewing history, taken from a Kaggle dataset containing MyAnimeList.net users. 
 
@@ -22,5 +22,3 @@ An analysis on a partner-designed collaborative filtering recommender system tha
 "
 collection: portfolio
 ---
-
-anime.andythai.xyz
