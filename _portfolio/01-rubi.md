@@ -10,7 +10,7 @@ excerpt: "
 
 <img style='float: right;' src='/images/rubi_project.png' hspace='20'>
 
-<br/><br/><br/>
+<br/>
   
 <b>RUBI-PAL</b><br/>
 <span style='color:blue'>
