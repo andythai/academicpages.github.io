@@ -24,7 +24,7 @@ My research interests are relatively diverse. Topics I would like to explore inc
 * Computational cognitive models & machine learning  
   * Generative modeling  
   
-In the past I have worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity.
+In the past I have worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents.
     
 Education
 ------  
