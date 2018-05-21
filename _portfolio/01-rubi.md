@@ -16,7 +16,7 @@ excerpt: "
 <span style='color:blue'>
    <a href='http://rubi.ucsd.edu' target='_blank'>rubi.ucsd.edu</a><br/>
 </span>
-The RUBI (Robot Using Bayesian Inference) project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers in early childhood education environments.
+The RUBI-PAL (Robot Using Bayesian Inference - Perception, Action, Learning) project explores the possibilities of sociable robots as a tool for education and enrichment for toddlers and young students in early childhood education environments. Applications covered include, but are not limited to, active object recognition, facial expression mirroring, and emotional self-modulatory teaching for students.
 
 </p>
 </div>
