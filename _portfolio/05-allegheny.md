@@ -14,7 +14,7 @@ excerpt: "
  
 <b>Car Crashes in Allegheny</b><br/>
 <span style='color:blue'>
-   <a href='http://allegheny.andythai.xyz' target='_blank'>allegheny.andythai.xyz</a><br/>
+   <a href='http://andyth.ai/allegheny-crashes' target='_blank'>andyth.ai/allegheny-crashes</a><br/>
 </span>
 An analytical project exploring various variables that potentially play as factors in car crash frequencies and severities.
 </p>  
@@ -26,5 +26,3 @@ An analytical project exploring various variables that potentially play as facto
 
 collection: portfolio
 ---
-
-allegheny.andythai.xyz
