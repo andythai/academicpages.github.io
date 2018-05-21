@@ -11,7 +11,7 @@ title                    : "Andy Thai"
 title_separator          : "-"
 name                     : &name "Andy Thai"
 description              : &description "personal description"
-url                      : http://andythai.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://andyth.ai # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andythai/andythai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Andy Thai"
   avatar           : "profile.png"
   bio              : "Dept. of Cognitive Science<br/>Dept. of Mathematics"
   location         : "La Jolla, United States"
@@ -104,11 +104,11 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "andythai313"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC5FznK_iYaRBFtiaXgkphBg"
   wikipedia        :
 
 
