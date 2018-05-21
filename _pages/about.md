@@ -17,12 +17,12 @@ I currently work as a research assistant in <span style="color:blue"><a href='ht
   
 Research
 ------
-My research interests are relatively diverse. Topics I would like to explore include:  
+My research interests are:  
 * Computer vision
 * Computer graphics
   * Non-photorealistic rendering (NPR)  
   * Computer animation  
-* Computational cognitive models & machine learning  
+* Computational cognitive modeling & machine learning  
   * Generative modeling  
   
 In the past I have worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents.
