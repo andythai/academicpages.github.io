@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
     
+About Me
+------
 I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science.  
 I currently work as a research assistant in <span style="color:blue"><a href='https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx'>Professor Andrea Chiba</a></span>'s laboratory.  
   
