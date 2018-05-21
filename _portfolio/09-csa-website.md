@@ -14,9 +14,10 @@ excerpt: "
 
 <b>Chancellor's Scholars Alliance Website</b><br/>
 <span style='color:blue'>
-   <a href='http://csa.andythai.xyz' target='_blank'>csa.andythai.xyz</a><br/>
+   <a href='chancellorsscholarsalliance.ucsd.edu' target='_blank'>chancellorsscholarsalliance.ucsd.edu</a><br/>
 </span>
-A website made and updated for the UCSD Chancellor's Scholars Alliance student organization.
+A website made and updated for the UCSD Chancellor's Scholars Alliance student organization. 
+The GitHub repository can be found <a href='https://github.com/andythai/csa-website' target='_blank'>here</a>.<br/>
 </p>
 </div>
 "
