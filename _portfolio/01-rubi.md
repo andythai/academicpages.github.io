@@ -12,7 +12,7 @@ excerpt: "
 
 <br/><br/><br/>
   
-<b>RUBI-6</b><br/>
+<b>RUBI-PAL</b><br/>
 <span style='color:blue'>
    <a href='http://rubi.ucsd.edu' target='_blank'>rubi.ucsd.edu</a><br/>
 </span>
