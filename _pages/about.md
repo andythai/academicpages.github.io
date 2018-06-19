@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ------
-I am an undergraduate student at UC San Diego studying Mathematics, Computer Science, and Cognitive Science, and an incoming Ph.D. student at UC Irvine.  
+I am an incoming Computer Science Ph.D. student at UC Irvine and a UC San Diego alumnus.  
 I currently work as a research assistant in <span style="color:blue"><a href='https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx'>Professor Andrea Chiba</a></span>'s laboratory.  
   
 <span style="color:blue"><a href='http://www.andythai.xyz/files/resume.pdf' target='_blank'>My Resume</a></span>  
