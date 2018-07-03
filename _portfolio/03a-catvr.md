@@ -3,7 +3,7 @@ title: ""
 excerpt: "
 <div class='w3-container'>
 
-<img style='float: right;' src='/images/cat_vr.png' hspace='20'>
+<img style='float: right;' src='/images/cat_vr.jpg' hspace='20'>
 <p align='center'><br/><br/><br/>
    
 <b>Defend the Cat VR</b><br/>
